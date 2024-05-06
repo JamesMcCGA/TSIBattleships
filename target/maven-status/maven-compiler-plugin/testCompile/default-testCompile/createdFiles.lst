@@ -1,0 +1,3 @@
+org\battleships\strategies\attacks\FakeAttackStrategy.class
+org\battleships\strategies\attacks\AttackStrategyTest.class
+org\battleships\AttackResultTest.class
